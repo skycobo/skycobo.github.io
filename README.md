@@ -1,2 +1,2 @@
 # skycobo.github.io
-个人主页
+cobo's homepage
